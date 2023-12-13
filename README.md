@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Akanksha Dash</h1>
 <h3 align="center">A passionate Data Scientist from Bangalore,India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ea076b847d1cc44d6d3a93361410ea769f5b0e451bae76e33446eac6747b7dc/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323439383730302f616e612d642d736d616c6c2e676966">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshadash&label=Profile%20views&color=0e75b6&style=flat" alt="akankshadash" /> </p>
 
 - 🔭 I’m currently working on **Deeplearning project**
